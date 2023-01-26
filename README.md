@@ -1,6 +1,6 @@
 # A repo solving algorithms with heaps of console logs
 
-I've got a bi ol' chip on my shoulder from never having completed a computer science degree and instead become a software engineer in an unconventional way. When it comes to white board challenges I suck! Fighting that imposter syndrome is a never ending battle! I'm sure anyone reading this would agree!
+I've got a big ol' chip on my shoulder from never having completed a computer science degree and instead became a software engineer in an unconventional way. When it comes to white board challenges I suck! Fighting that imposter syndrome is a never ending battle! I'm sure anyone reading this would agree!
 
 I started practicing solutions to common whiteboard problems and console.logging throughout my solutions to try help myself understand what was happening. I thought maybe this might help someone else as well.
 
